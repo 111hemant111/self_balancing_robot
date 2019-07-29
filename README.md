@@ -9,4 +9,4 @@ Final product that balances itself on the single axis.
 This is a fully functional final version. Following improvements can be made:
 1. Smoother balancing.
 2. Ability to steer.
-Please refer to [schematics](/schematics) to improve upon the progress.
+Please refer to [schematics](/schematics) and [docs](/docs) to improve upon the progress.

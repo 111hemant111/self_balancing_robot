@@ -1,7 +1,7 @@
 # PID-controlled Self-balancing Robot
 This project implements an inverted pendulum concept to build a self-balancing robot. An Inertial Measurement Unit is used to detect the angle of inclination and these values are continuously fed to a PID Controller which would then provide the amount of torque that's needed to be applied in the direction of fall to keep the robot balanced.
 
-The body and chassis of this robot was designed on Autodesk Fusion 360 and built using Lulzbot Mini 3D Printer. Users can replicate similar behaviour by using any other material.
+The body and chassis of this robot were designed on Autodesk Fusion 360 and built using Lulzbot Mini 3D Printer. Users can replicate similar behaviour by using any other material.
 
 ## Status
 Completed. Last update Dec 2017. Refer to 'Scope for Improvement' section.
